@@ -1,6 +1,7 @@
 # shop_app
 
-A new Flutter project.
+Hi i am Abderrahmen.
+this is my second Flutter Project and its something light and i built just to practice more Flutter and Dart, i hope you like it! 
 
 ## Getting Started
 
