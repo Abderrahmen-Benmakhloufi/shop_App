@@ -6,6 +6,10 @@ void main() {
   runApp(ShopApp());
 }
 
+
+//this small app was built by Abderrahmen Benmakhloufi.
+//a beginner App developer.
+
 class ShopApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
